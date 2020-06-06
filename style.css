@@ -1,0 +1,122 @@
+body {
+  text-align: center;
+  color: white;
+}
+
+h2 {
+  font-size: 8vmin;
+  color: #db4848;
+  margin-top: 5rem;
+  font-weight: bold;
+  letter-spacing: 2.5px;
+}
+
+address {
+  margin: 0;
+  line-height: 1.5;
+}
+
+.headSectionBackground {
+  background-image: url(images/titleBackground.jpg);
+  padding: 18% 15% 8%;
+}
+
+.heading {
+  font-size: 15vmin;
+  font-weight: 900;
+  line-height: 1.2;
+  /* text-transform: uppercase; */
+  letter-spacing: 2px;
+  margin-bottom: 1rem;
+}
+
+.myName {
+  font-size: 5vmin;
+  letter-spacing: 1.5rem;
+}
+
+.headingSeperator {
+  width: 45vw;
+  height: 1vh;
+  border-style: none;
+  background-color: #db4848;
+}
+
+/* Skill Section */
+
+.skillSection {
+  padding: 3% 0 5%;
+
+}
+
+.cardMargin {
+  margin-top: 1rem;
+}
+
+.musicCard {
+
+  background-image: url(images/music.jpg);
+
+  /*margin-bottom: 3%;
+  margin-left: auto; */
+  border-style: solid;
+  border-width: 2px;
+  border-color: #db4848;
+  box-shadow: 5px 5px 5px grey;
+  /* padding: 0 2%; */
+}
+
+.logoCard {
+  background-image: url(images/logo.jpg);
+  border-style: solid;
+  border-width: 2px;
+  border-color: #db4848;
+  box-shadow: 5px 5px 5px grey;
+  /* padding: 0 2%; */
+}
+
+.webDesignCard {
+  /*margin-bottom: 3%;
+  margin-right: auto; */
+  background-image: url(images/coding.jpg);
+  border-style: solid;
+  border-width: 2px;
+  border-color: #db4848;
+  box-shadow: 5px 5px 5px grey;
+  /* padding: 0 2%; */
+
+}
+
+.skillText {
+  margin: 10% 0  5%;
+  padding: 7% 0;
+  background-color: rgba(0, 0, 0, 0.6);
+  font-size: 3vmin;
+  letter-spacing: 4px;
+  opacity: 0.6;
+}
+
+.skillButton {
+  margin: 10% 0;
+  font-size: 3vmin;
+  background-color: #db4848;
+}
+
+.skillHeading {
+  margin: 5% 0 10%;
+  padding: 7% 0;
+  background-color: rgba(255, 255, 255, 0.4);
+  font-size: 4vmin;
+  font-weight: bold;
+  opacity: 0.7;
+}
+
+.contactSection {
+  background-color: rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  color: #db4848;
+  font-size: 3vh;
+  letter-spacing: 2px;
+  box-shadow: 5px 5px 5px grey;
+  margin-bottom: 1rem;
+}
